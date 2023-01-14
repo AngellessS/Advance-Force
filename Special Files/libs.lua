@@ -1,0 +1,1 @@
+getLib = gg.getRangesList
