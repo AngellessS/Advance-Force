@@ -224,4 +224,4 @@ function adf.memoryClear()
 	SaanModz__1 = false
 end
 
-return adf
+--return adf
