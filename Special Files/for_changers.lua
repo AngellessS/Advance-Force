@@ -1,4 +1,4 @@
-local get_stickers = {
+get_stickers = {
         ['Sticker SO2 Silver'] = 1351,
         ['Sticker SO2 Gold'] = 1352,
         ['Sticker Biohazard'] = 1133,
