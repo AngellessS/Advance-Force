@@ -134,5 +134,5 @@ get_charms = {
         ['Charm Party Snowman'] = 1051,
         ['Charm Hot Ice Balloon'] = 1052,
         ['Charm Gift Bunny'] = 1053,
-    }
+ }
 
